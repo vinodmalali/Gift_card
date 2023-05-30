@@ -13,3 +13,6 @@ Commands to run
 npm i 
 
 node app.js
+
+
+smart contract - https://pastebin.com/2TPriSQv
